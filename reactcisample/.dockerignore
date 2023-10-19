@@ -1,0 +1,4 @@
+<!-- #while image created if we want to ignore some folders to be ignored into image we can add those here -->
+node_modules
+Dockerfile 
+.git 
